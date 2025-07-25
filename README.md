@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Hari-10-7-2004/Hari-10-7-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,9 +46,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🎓 Certifications
-- HTML, CSS & JavaScript for Web Developers – Coursera  
 - Data Analysis & Visualization Foundations – Coursera  
-- Data Structures – Coursera  
+- Data Structures – Coursera
+- HTML, CSS & JavaScript for Web Developers – Coursera   
 - Oracle AI Vector Search Certified Professional – Oracle
 
 ---
