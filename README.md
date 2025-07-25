@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 I'm Harini Srinivasan
+# Hi there 👋 I'm Harini SV
 
 🎓 B.Tech IT | 💻 Java | 🌐 HTML/CSS | 📊 SQL | 📈 Power BI | 💡 Data Enthusiast
 
